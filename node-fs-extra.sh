@@ -18,7 +18,7 @@
 #
 # ----------------------------------------------------------------------------
 #Install dependencies
-yum install -y nodejs
+yum install -y git nodejs
 
 
 git clone https://github.com/jprichardson/node-fs-extra
